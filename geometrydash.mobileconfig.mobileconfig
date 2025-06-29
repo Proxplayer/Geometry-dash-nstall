@@ -18,7 +18,7 @@
       <key>Label</key>
       <string>Install Geometry Dash</string>
       <key>URL</key>
-      <string>itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Proxplayer/geometrydash-install/refs/heads/main/manifest.plist</string>
+      <string>itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/Proxplayer/Geometry-dash-nstall/refs/heads/main/manifest.plist</string>
     </dict>
   </array>
   <key>PayloadDisplayName</key>
